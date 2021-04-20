@@ -1,0 +1,522 @@
+.container{
+    background-image: url(../image/food.jpg);
+    background-size: cover;
+    max-width: 100%;
+    height: 100vh;
+}
+
+.navbar ul li{
+    display: inline;
+    color:white;
+    font-size: large; 
+    padding:10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar ul li:hover{
+    text-decoration: underline;
+}
+
+.navbar{
+    padding-top: 7px;
+}
+
+.nav{
+    margin-right:50px;
+}
+
+.text-hero{
+
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:150px;
+    text-align: center;
+    color:white;
+    font-weight: bolder
+}
+
+.text{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.text2{
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+body{
+
+    padding: 0;
+    margin: 0;
+
+}
+
+.getstarted{
+    text-align: center;
+    
+
+}
+
+.getstarted button{
+    border: red;
+    background-color: red;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+
+.text-hero{
+    font-size: 65px;
+    padding-top: 5px;
+    margin-bottom: 25px;
+}
+
+.getstarted h2{
+    color: white;
+    margin-top: 10px;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+
+.text2{
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    
+}
+.container3{
+    max-width: 100%;
+    margin-right: 0;
+}
+
+.container2 h1{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.container3{
+    display: flex;
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+    
+}
+
+.content{
+    flex: 1;
+}
+
+.container2 button{
+    background-color: red;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 525px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    border-color: red;
+    border-style: solid;
+}
+.container4{
+    background-image: url(../image/food\ box.jfif);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    color: white;
+    padding-top: 10px;
+}
+
+.container4 h1{
+    font-weight: 700px;
+    margin-left: 30px;
+    font-size: 55px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container4 h2{
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-left: 100px;
+    margin-bottom: 0px;
+}
+
+.container4 p{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    color: white;
+    padding-left: 20px;
+}
+
+.container4 img{
+    padding-left: 135px;
+}
+
+.container5{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    font-family: sans-serif;
+    max-width: 100%;
+}
+.container5 h1{
+    font-size: 60px;
+    color: black;
+    font-weight: bold;
+    margin-top: 100px;
+}
+
+.container5 h2{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 0;
+
+}
+.container6{
+    display: flex;
+    align-content: center;
+    text-align: center;
+    margin-left: 210px;
+}
+
+.container6 p{
+    margin-top: 0px;
+}
+
+.content3 img{
+    border: none;
+    width: 450px;
+    border-radius: 15px;
+    padding-right: 10px;
+    scale: 50%;
+       
+}
+.content3 h1 , .content4 h1{
+    margin-top: 0;
+}
+
+.content3 p , .content4 p{
+    margin-top: -30px;
+}
+
+.content4 img{
+    border-radius: 15px;
+    width: 450px;
+    size: 0px;
+    padding-left: 10px;
+    scale: 50%;
+}
+
+.ratings{
+    color: orange;
+    margin-bottom: 30px;
+}
+
+.container7{
+    background-image: url(../image/background5.webp);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    align-content: center;
+    text-align: center;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.container7 h1{
+    font-size: 50px;
+    padding-top: 110px;
+}
+
+.container7 button{
+    background-color: darkred;
+    padding-left: 80px;
+    padding-top: 20px;
+    padding-right: 80px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-top: 200px;
+    font-weight: bold;
+}
+
+.container7 p{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.circle{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: red;
+    align-content: center;
+    margin-left: 5px;
+
+}
+.circlecontainer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.awardscontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 70px;
+    font-size: 12px;
+}
+
+.awardscontainer h2{
+    width: 400px;
+
+}
+.div2{
+    padding-left: 100px;
+}
+
+.awardscontainer img{
+    height: 100px;
+}
+
+.featured{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
+    
+
+}
+.img1{
+    height: 20px;
+}
+
+.img2{
+    height: 25px;
+}
+
+.img3{
+    height: 35px;
+}
+
+.img4{
+    height: 35px;
+}
+
+.img5{
+    height: 35px;
+}
+    
+.img6{
+    height: 30
+    
+    px;
+}
+
+.container8{
+    background-image: url(../image/chefimage.jfif);
+    background-size: cover;
+    width: 100%;
+    height: 85vh;
+    color: white;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.container8 h1{
+    font-size: 55px;
+    font-family: sans-serif;
+
+}
+.container8 p{
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+.container8 button{
+    background-color: red;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: sans-serif;
+    border-radius: 5px;
+    border: none;
+    margin-top: 40px;
+}
+.container9{
+    width: 100%;
+    height: 40vh;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.container9 h1{
+    font-size: 55px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(65, 65, 65);
+}
+
+.container9 button{
+    background-color: red;
+    font-size: 30px;
+    color: white;
+    font-family: sans-serif;
+    border: none;
+    padding-right: 35px;
+    padding-left: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+}
+.container9 p{
+    font-family: sans-serif;
+    margin-top: 30px;
+    font-weight: bold;
+    color: rgb(146, 142, 142);
+}
+
+.container10{
+    width: 100%;
+    height: 70vh;
+    text-align: center;
+}
+
+.container10 img{
+    margin-top: 60px;
+
+}
+
+.logobottom{
+    height: 50px;
+}
+
+.container11{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: sans-serif;
+    
+}
+
+.container11 img{
+    width: 140px;
+    border-radius: 5px;
+}
+.container11 p{
+    font-size: 20px;
+    font-weight: bold;
+    color: grey;
+}
+
+.allign1{
+    text-align: right;
+    margin-bottom: 0px;
+}
+
+.allign1 img{
+    margin-top: 0px;
+    
+}
+
+.allign2{
+    text-align: right;
+}
+
+.stars img{
+    height: 30px;
+    align-items: center;
+    margin-top: 0px;
+}
+
+
+.logos {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.logos img{
+    height: 30px;
+    margin-top: 0px;
+}
+
+.container12{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container12 a{
+    background-color: red;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    margin-left: 0;
+}
+
+.container12 input{
+    padding-top: 14px;
+    padding-bottom: 14px;
+    margin-right: 0;
+
+}
+
+.subsc{
+    display: flex;
+    justify-content: center;
+}
+
+.footer{
+    margin-top: 0px;
+    font-family: sans-serif;
+    color: gray;
+}
+.foooter p{
+    font-size: 5px;
+}
+
+.chat{
+    background-color: red;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
